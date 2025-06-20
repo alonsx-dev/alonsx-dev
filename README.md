@@ -4,6 +4,7 @@ console.log(`Hi, I'm Alon...`)
 <p align="center">
   <img src="banner.png" />
 </p>
+
 ---
 
 ## 📁 Projects
