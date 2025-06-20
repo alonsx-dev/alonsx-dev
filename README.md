@@ -4,7 +4,7 @@ console.log(`Hi, I'm Alon...`)
 ---
 
 ## 📁 Projects
-- [Base-for-Discordjs](https://github.com/alonsx-dev/Base-for-Discordjs)
+- 👾 [Base-for-Discordjs](https://github.com/alonsx-dev/Base-for-Discordjs)
 ---
 ## 🧠 My Stack
 
